@@ -5,7 +5,7 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 This repository contains the complete implementation of a deep learning framework for **cloud segmentation from Sentinel-2 satellite imagery** and the subsequent estimation of **solar irradiance attenuation** caused by cloud cover.
 
@@ -32,7 +32,7 @@ The project evaluates three different semantic segmentation architectures:
 
 ---
 
-# 🚀 Key Features
+#  Key Features
 
 ## ☁️ High-Resolution Cloud Segmentation
 
@@ -43,7 +43,7 @@ The project evaluates three different semantic segmentation architectures:
 
 ---
 
-## 🌞 Solar Irradiance Attenuation Estimation
+##  Solar Irradiance Attenuation Estimation
 
 Cloud coverage is converted into ground-level solar irradiance using a parameterized attenuation model:
 
@@ -60,7 +60,7 @@ where:
 
 ---
 
-## ⚡ Solar Power Yield Forecasting
+##  Solar Power Yield Forecasting
 
 Estimated irradiance is further translated into photovoltaic power generation by incorporating:
 
@@ -196,7 +196,7 @@ Study area:
 
 ---
 
-# 🧠 Deep Learning Models
+#  Deep Learning Models
 
 ## U-Net
 
@@ -241,7 +241,7 @@ Features:
 
 ---
 
-# 🔄 Workflow
+#  Workflow
 
 ```text
 Satellite Images
@@ -276,7 +276,7 @@ Visualization & Evaluation
 
 ---
 
-# 📊 Outputs
+#  Outputs
 
 The repository generates:
 
@@ -296,7 +296,7 @@ The repository generates:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - Python
 - PyTorch
@@ -313,7 +313,7 @@ The repository generates:
 
 ---
 
-# 📈 Evaluation Metrics
+#  Evaluation Metrics
 
 Segmentation Metrics
 
@@ -331,7 +331,7 @@ Regression Metrics
 
 ---
 
-# 🌍 Applications
+#  Applications
 
 - Solar energy forecasting
 - Smart grid planning
@@ -344,7 +344,7 @@ Regression Metrics
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Abdul Matin**
 
@@ -355,7 +355,7 @@ Assam Engineering College
 
 ---
 
-# 📄 License
+#  License
 
 This project is intended for academic and research purposes.
 
