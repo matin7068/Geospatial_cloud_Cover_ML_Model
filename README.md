@@ -12,7 +12,7 @@ This repository contains the complete implementation of a deep learning framewor
 The study focuses on **Guwahati, Assam, India**, using **4-band Sentinel-2 imagery (Blue, Green, Red, Near-Infrared)** captured over multiple years. The generated cloud masks are further utilized for estimating solar energy availability, enabling applications in photovoltaic planning, weather monitoring, and renewable energy forecasting.
 
 The project evaluates three different semantic segmentation architectures:
-
+## SAVED MODELS CAN BE FOUND IN: https://drive.google.com/file/d/17l3W_xLU2QfTmNh0fh7WzsfJz4FlHh_4/view?usp=sharing
 1. **U-Net**
    - Convolutional encoder-decoder architecture
    - Strong baseline for biomedical and satellite image segmentation
